@@ -2,6 +2,10 @@
 
 ![Pr. Police logo](https://raw.githubusercontent.com/Talkdesk/pr-police/master/images/logo-blue-small.png)
 
+## Adding a repository
+
+To add a new repository edit the `./lib/repositories.js` file.
+
 ## About
 
 Pr. Police is a slackbot that sends to configured slack channels a listing of open pull requests that are waiting for a review. It supports watching multiple repositories, and filtering the pull requests by label.
