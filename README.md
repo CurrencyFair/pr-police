@@ -1,3 +1,6 @@
+See [here](https://github.com/CurrencyFair/saga/wiki/PR-Police-Slack-Bot) for documentation on deploying, configuring and testing locally.
+
+
 # Pr. Police [![Build Status](https://travis-ci.org/Talkdesk/pr-police.svg?branch=master)](https://travis-ci.org/Talkdesk/pr-police)
 
 ![Pr. Police logo](https://raw.githubusercontent.com/Talkdesk/pr-police/master/images/logo-blue-small.png)
